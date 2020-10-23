@@ -33,7 +33,7 @@ const App=()=>{
                 {errors.address && <p>{errors.address}</p>}
                 <br/>
                 </div>
-                <div class="submit_btn">
+                <div className="submit_btn">
                 <button className="btn">Submit</button>
                 </div>
             </div>
